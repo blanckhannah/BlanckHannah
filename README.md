@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 I'm a passionate Software Developer with a love for web development, AI, and smart home technologies. I enjoy building innovative solutions and contributing to the tech community.
 
 🌍 Based in: Arrowsmith, IL
+
 🏫 Education: Bachelors of Science and recent program completion through Tech Elevator
