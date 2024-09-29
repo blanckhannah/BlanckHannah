@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a passionate Software Developer with a love for web development, AI, and smart home technologies. I enjoy building innovative solutions and contributing to the tech community.
+I'm a passionate Software Developer with a love for web development and smart home technologies. I enjoy building innovative solutions and contributing to the tech community.
 
 🌍 Based in: Arrowsmith, IL
 
